@@ -15,4 +15,5 @@ You will need to place the following folders from your original MSTS installatio
 4. GLOBAL
 5. GUI
 
-Thats it! Just compile and run the application
+That's it! Just compile and run the application
+
